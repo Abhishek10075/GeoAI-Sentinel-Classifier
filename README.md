@@ -1,2 +1,9 @@
-# GeoAI-Sentinel-Classifier
-Goal: Sentinel-2 image se Land Use Land Cover (LULC) identify karna.  Tech: Python aur YOLOv8 architecture ka upyog.  Classes: Forest, Water, Mountain, Agriculture, aur Urban areas.  Feature: Transfer learning se satellite textures ki accurate pehchan.  Resolution: 10m resolution patches par GeoAI analysis.
+Goal: Identify Land Use Land Cover (LULC) categories from Sentinel-2 satellite imagery.
+
+Tech Stack: Powered by Python and the YOLOv8 deep learning architecture.
+
+Classes: Detects Forest, Water bodies, Mountains, Agriculture land, and Urban areas.
+
+Core Feature: Uses Transfer Learning to accurately recognize complex satellite textures.
+
+Resolution: Specifically optimized for 10m spatial resolution GeoAI analysis.
